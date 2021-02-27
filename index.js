@@ -43,4 +43,4 @@ task1.logState();
 task1.markCompleted();
 task1.logState();
 
-console.log(tasks);
+// console.log(tasks);
